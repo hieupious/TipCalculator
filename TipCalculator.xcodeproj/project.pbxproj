@@ -16,6 +16,8 @@
 		5F002B671C5ED8210058EBBF /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F002B661C5ED8210058EBBF /* TipCalculatorTests.swift */; };
 		5F002B721C5ED8210058EBBF /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F002B711C5ED8210058EBBF /* TipCalculatorUITests.swift */; };
 		5F0A79A41C69F5CA00B29953 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0A79A31C69F5CA00B29953 /* SettingsViewController.swift */; };
+		5F83016C1C74E008002813C0 /* locale.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5F83016A1C74E008002813C0 /* locale.gif */; };
+		5F83016D1C74E008002813C0 /* required.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5F83016B1C74E008002813C0 /* required.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		5F002B711C5ED8210058EBBF /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		5F002B731C5ED8210058EBBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F0A79A31C69F5CA00B29953 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		5F83016A1C74E008002813C0 /* locale.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = locale.gif; sourceTree = "<group>"; };
+		5F83016B1C74E008002813C0 /* required.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = required.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 		5F002B421C5ED8210058EBBF = {
 			isa = PBXGroup;
 			children = (
+				5F83016A1C74E008002813C0 /* locale.gif */,
+				5F83016B1C74E008002813C0 /* required.gif */,
 				5F002B4D1C5ED8210058EBBF /* TipCalculator */,
 				5F002B651C5ED8210058EBBF /* TipCalculatorTests */,
 				5F002B701C5ED8210058EBBF /* TipCalculatorUITests */,
@@ -240,6 +246,8 @@
 			files = (
 				5F002B5C1C5ED8210058EBBF /* LaunchScreen.storyboard in Resources */,
 				5F002B591C5ED8210058EBBF /* Assets.xcassets in Resources */,
+				5F83016C1C74E008002813C0 /* locale.gif in Resources */,
+				5F83016D1C74E008002813C0 /* required.gif in Resources */,
 				5F002B541C5ED8210058EBBF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
