@@ -27,10 +27,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-# Require features
+**Require features**
+
 ![Video Walkthrough Require](required.gif)
 
-# Locale-specify features
+**Locale-specify features**
+
 ![Video Walkthrough Locale-specific](locale.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
