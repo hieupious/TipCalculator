@@ -9,7 +9,6 @@ Time spent: 10 hours spent in total
 
 ## User Stories
 
-> HINT: mark the items you completed with [x]
 
 The following **required** functionality is complete:
 
@@ -28,9 +27,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+# Require features
 ![Video Walkthrough Require](required.gif)
 
-![Video Walkthrough Locale-specific](required.gif)
+# Locale-specify features
+![Video Walkthrough Locale-specific](locale.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
